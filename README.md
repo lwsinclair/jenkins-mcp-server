@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/truxt-ai-jenkins-mcp-server-badge.png)](https://mseep.ai/app/truxt-ai-jenkins-mcp-server)
+
 # Jenkins MCP Server
 
 A Model Context Protocol (MCP) server that provides access to Jenkins data and functionality through a standardized interface for LLMs.
